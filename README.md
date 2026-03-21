@@ -124,9 +124,9 @@ Full-stack AI platform helping small retailers reduce dead stock and optimize wo
 
 <div align="center">
 
-![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahesh16124055&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahesh-mettireddy&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh16124055&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-mettireddy&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
