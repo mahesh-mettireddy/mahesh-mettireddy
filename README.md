@@ -84,7 +84,7 @@ flowchart LR
 
 I'm looking for **AI Engineer** and **Forward Deployed Engineer** roles at strong product companies and startups, especially where AI has to work inside messy, real-world systems.
 
-Best way to reach me: **[LinkedIn](https://www.linkedin.com/in/maheshmettireddy)**.
+Best way to reach me: **[LinkedIn](www.linkedin.com/in/mahesh-mettireddy)**.
 
 <!--
 OPTIONAL: GitHub stats. These cards depend on third-party hosts and can be rate-limited,
