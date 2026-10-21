@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/maheshmettireddy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/mahesh-mettireddy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://huggingface.co/mahesh16"><img src="https://img.shields.io/badge/HuggingFace-mahesh16-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
 <img src="https://img.shields.io/badge/Hyderabad-India-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 <img src="https://img.shields.io/badge/Open%20to-AI%20Engineer%20%7C%20FDE%20roles-2ea043?style=for-the-badge" alt="Open to work" />
@@ -84,7 +84,7 @@ flowchart LR
 
 I'm looking for **AI Engineer** and **Forward Deployed Engineer** roles at strong product companies and startups, especially where AI has to work inside messy, real-world systems.
 
-Best way to reach me: **[LinkedIn](www.linkedin.com/in/mahesh-mettireddy)**.
+Best way to reach me: **[LinkedIn](https://www.linkedin.com/in/mahesh-mettireddy)**.
 
 <!--
 OPTIONAL: GitHub stats. These cards depend on third-party hosts and can be rate-limited,
